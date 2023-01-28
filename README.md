@@ -9,6 +9,6 @@
 </p>
 
 <div style="display: flex;">
-  <img align="left" style="width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=leoflood&show_icons=true&locale=en&layout=compact" alt="leoflood" />
-  <img align="right" style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=leoflood&show_icons=true&locale=en" alt="leoflood" />
+  <img align="left" style="width: 49%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=leoflood&show_icons=true&locale=en&layout=compact" alt="leoflood" />
+  <img align="right" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=leoflood&show_icons=true&locale=en" alt="leoflood" />
 </div>
